@@ -1,2 +1,1 @@
-# ML_DL_STUDY
-평범한 공부
+# ML / DL 공부일기
